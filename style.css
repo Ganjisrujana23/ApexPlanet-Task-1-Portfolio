@@ -94,3 +94,22 @@ section {
 section:hover {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
+/* Improve layout on mobile devices */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    section {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+}
