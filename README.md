@@ -1,10 +1,10 @@
 # My Personal Portfolio
  
-This portfolio website was created as part of my ApexPlanet 60-Day Full Stack Web Development Internship.
+ This portfolio website was created as part of my ApexPlanet 60-Day Full Stack Web Development Internship.
+
+# About Me
  
-## About Me
- 
-I am a Computer Science Engineering student interested in full-stack development and software development.
+I am Ganji Srujana, a Computer Science Engineering student interested in full-stack web development and software development.
  
 ## Technologies Used
  
@@ -19,7 +19,19 @@ I am a Computer Science Engineering student interested in full-stack development
 - Weather Website
 - Crop Disease Diagnosis Using AI
 
- 
+
+## Project Files
+
+- index.html – Website structure
+- style.css – Website design and styling
+- script.js – JavaScript functionality
+
+
 ## Live Website
  
 https://ganjisrujana23.github.io/ApexPlanet-Task-1-Portfolio/
+
+
+## Repository
+
+https://github.com/Ganjisrujana23/ApexPlanet-Task-1-Portfolio
